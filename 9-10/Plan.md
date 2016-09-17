@@ -29,7 +29,7 @@
 
 - Handlebars官方文档
 - Handlebars Sf翻译文档
-- [canvasMDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
+- [canvasMDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
 
 ##关注的技术热文榜
 
