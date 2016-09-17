@@ -41,7 +41,7 @@
 ##网络文档
 
 - [Handlebars官方文档](http://handlebarsjs.com/)
-- Handlebars Sf翻译文档
+- [Handlebars Sf翻译文档](https://segmentfault.com/a/1190000000342636)
 - [canvasMDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
 
 ##关注的技术热文榜
