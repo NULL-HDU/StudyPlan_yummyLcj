@@ -40,7 +40,7 @@
 
 ##网络文档
 
-- Handlebars官方文档
+- [Handlebars官方文档](http://handlebarsjs.com/)
 - Handlebars Sf翻译文档
 - [canvasMDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
 
