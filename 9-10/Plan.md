@@ -2,21 +2,21 @@
 
 ###前端技术
 
-- Canvas的基础用法
+- webSocket的基础用法
+- DataView的基础用法
 - Handlebars的基本使用方法,能完成简单的页面
 - [百端前端学院的学习](http://ife.baidu.com/task/all)
 
 ###开发环境的构建
 
 - linux的基本命令与操作
-- nodejs开发环境的搭建
 
 ##学习进程
 
-###canvas
+###webSocket&DataView
 
 - 第一周MDN
-- 后几周：开发实战
+- 浏览博客，学习实例
 
 ###百度前端学院
 
@@ -30,7 +30,6 @@
 
 ##图书
 
-- HTML5 Canvas 游戏开发实战
 - JavaScript编程全解
 - 鸟哥的Linux私房菜（基础学习篇）
 
@@ -42,7 +41,7 @@
 
 - [Handlebars官方文档](http://handlebarsjs.com/)
 - [Handlebars Sf翻译文档](https://segmentfault.com/a/1190000000342636)
-- [canvasMDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
+- [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/DataView)
 
 ##关注的技术热文榜
 
