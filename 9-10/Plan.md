@@ -6,6 +6,7 @@
 - DataView的基础用法
 - Handlebars的基本使用方法,能完成简单的页面
 - [百端前端学院的学习](http://ife.baidu.com/task/all)
+- CodeWars训练
 
 ###开发环境的构建
 
