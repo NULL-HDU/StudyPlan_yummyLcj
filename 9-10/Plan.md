@@ -9,6 +9,7 @@
 - [百端前端学院的学习](http://ife.baidu.com/task/all)
 - CodeWars训练
 - webPack与ES6的学习
+- 了解react native
 
 ###开发环境的构建
 
@@ -45,6 +46,7 @@
 
 - 第一个月熟悉基础用法，并且完成书前实例
 - 之后每周模仿一个实例，并且尝试改进
+- 尝试写一个能获取手机号一绑定的app/web的程序
 
 ###Python
 
@@ -53,6 +55,10 @@
 ###git
 
 - 阅读廖雪峰教程
+
+###react native
+
+- 阅读官方文档
 
 ##学习资源
 
@@ -76,6 +82,7 @@
 - [NodeJs官方文档](https://nodejs.org/en/docs/)
 - [廖雪峰Python教程](www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/)
 - [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- react native官方文档
 
 ###关注的技术热文榜
 
